@@ -1,0 +1,16 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg">
+<metadata>Copyright (C) 2019 by original authors @ fontello.com</metadata>
+<defs>
+<font id="fontello" horiz-adv-x="1000" >
+<font-face font-family="fontello" font-weight="400" font-stretch="normal" units-per-em="1000" ascent="850" descent="-150" />
+<missing-glyph horiz-adv-x="1000" />
+<glyph glyph-name="mail-circled" unicode="&#xe800;" d="M0 350q0 207 147 354t353 146 354-146 146-354-146-354-354-146-353 146-147 354z m244-193l512 0-166 174-90-51-90 51z m0 58l131 137-131 74 0-211z m0 256l256-144 256 144 0 72-512 0 0-72z m381-119l131-137 0 211z" horiz-adv-x="1000" />
+
+<glyph glyph-name="vine" unicode="&#xf1ca;" d="M835 389v-111q-56-13-110-13-36-76-92-151t-102-120-71-60q-45-25-91 2-15 9-33 24t-48 47-57 72-60 102-59 136-51 176-39 218h158q14-122 39-223t58-177 68-131 78-109q94 94 160 227-79 40-124 122t-45 186q0 107 58 176t158 68q99 0 152-59t53-166q0-89-32-159-4-1-11-2t-25-1-36 3-34 14-28 29q17 58 17 103 0 48-16 73t-44 26q-30 0-48-28t-18-78q0-104 59-164t149-60q35 0 67 8z" horiz-adv-x="857.1" />
+
+<glyph glyph-name="facebook-circled" unicode="&#xf30d;" d="M480 830q200 0 340-140t140-340q0-198-140-339t-340-141-340 141-140 339q0 200 140 340t340 140z m114-330l0 78-72 0q-44 0-74-33t-30-81l0-44-76 0 0-74 76 0 0-222 86 0 0 222 90 0 0 74-90 0 0 52q0 28 18 28l72 0z" horiz-adv-x="960" />
+</font>
+</defs>
+</svg>
